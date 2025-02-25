@@ -1,0 +1,4 @@
+#. module: l10n_it_fatturapa
+#: model:ir.model.fields.selection,name:l10n_it_fatturapa.selection__fatturapa_related_document_type__type__order
+msgid "Order"
+msgstr "Determina"
